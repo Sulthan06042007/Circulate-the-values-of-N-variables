@@ -32,4 +32,4 @@ n=int(input())
 ![image](https://github.com/Sulthan06042007/Circulate-the-values-of-N-variables/assets/144980103/8bed2282-8d9c-4e4c-b2e4-3dfb4a93943f)
 
 
-## Result:
+## Result: thus the circulate the values of N variables
